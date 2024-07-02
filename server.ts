@@ -129,14 +129,9 @@ const locales = require('./data/static/locales.json')
 const i18n = require('i18n')
 const antiCheat = require('./lib/antiCheat')
 
-
-
-//added by samir
-const secretKey="s7ssb22uyxq787q22vssg2gd"
+// added by samir
+const secretKey = 's7ssb22uyxq787q22vssg2gd'
 console.log(secretKey)
-
-
-
 
 const appName = config.get<string>('application.customMetricsPrefix')
 const startupGauge = new Prometheus.Gauge({
