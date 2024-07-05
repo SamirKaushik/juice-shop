@@ -169,6 +169,8 @@ gcloud compute firewall-rules create juice-rule --allow tcp:3000
 4. Your container is now running and available at
    `http://<EXTERNAL_IP>:3000/`
 
+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
+
 ### Heroku
 
 1. [Sign up to Heroku](https://signup.heroku.com/) and
