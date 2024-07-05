@@ -296,6 +296,8 @@ about donations and how they are used here:
 
 <https://pwning.owasp-juice.shop/part3/donations.html>
 
+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
+
 ## Contributors
 
 The OWASP Juice Shop core project team are:
