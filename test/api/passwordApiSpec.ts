@@ -11,6 +11,24 @@ const REST_URL = 'http://localhost:3000/rest'
 
 const jsonHeader = { 'content-type': 'application/json' }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 describe('/rest/user/change-password', () => {
   it('GET password change for newly created user with recognized token as Authorization header', () => {
     return frisby.post(API_URL + '/Users', {
